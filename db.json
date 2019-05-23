@@ -276,7 +276,7 @@
      "secondRates":{
         "numberOfBeneficiaries":{
           "id":"numberOfBeneficiaries",
-          "value":"1"
+          "value":"12345"
         },
         "totalProjectLength":{
           "id":"totalProjectLength",
