@@ -300,11 +300,11 @@
         },
         "totalAllocations":{
           "id":"totalAllocations",
-          "value":"EOW"
+          "value":"10.15%"
         },
         "totalFundsRelease":{
           "id":"totalFundsRelease",
-          "value":"1234567890"
+          "value":"1,234,567,890"
         } 
       }
      
